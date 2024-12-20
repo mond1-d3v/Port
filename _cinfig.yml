@@ -1,0 +1,1 @@
+exclude: [node_modules, astro.config.mjs, package.json, package-lock.json]
