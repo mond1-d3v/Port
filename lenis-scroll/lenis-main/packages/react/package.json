@@ -1,0 +1,11 @@
+{
+  "name": "lenis-react",
+  "type": "module",
+  "dependencies": {
+    "lenis": "workspace:lenis*"
+  },
+  "devDependencies": {
+    "react": "^18.2.0",
+    "@types/react": "^18.2.77"
+  }
+}
